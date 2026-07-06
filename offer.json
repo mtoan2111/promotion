@@ -18,7 +18,7 @@
       "cta": { "vi": "Lấy mã ưu đãi", "en": "Get the code" },
       "dest": { "vi": "Zalo", "en": "Zalo" },
       "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6709203674879803188?sub4=oneatweb&utm_source=seed&utm_campaign=hl&url_enc=aHR0cHM6Ly96YWxvLm1lL3MvMzI3NDExNjI5MTI3MzEyMDY3L2dhbWVzL2FmZmlsaWF0ZQ%3D%3D&sub1={placement}",
-      "theme": "emerald",
+      "theme": "ruby",
       "tags": ["food", "fun"],
       "priority": 10
     },
@@ -40,8 +40,7 @@
       "url": "https://go.isclix.com/deep_link/v5/7017561948428182805/6962147889261067281?utm_source=seed&utm_campaign=btmh&sub4=oneatweb&url_enc=aHR0cHM6Ly9rZ2IuYmFvdGlubWFuaGhhaS52bi8%3D&sub1={placement}",
       "tags": ["finance", "invest"],
       "priority": 40,
-      "color": "C8992E",
-      "soft": "F7EFD6"
+      "theme": "amber"
     },
     {
       "id": "vib-family",
@@ -65,8 +64,7 @@
       "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6298965523515214199?sub4=oneatweb&utm_source=seed&utm_campaign=vibc&url_enc=aHR0cHM6Ly93d3cudmliLmNvbS52bi92bi90aGUtdGluLWR1bmcvZGFuZy1reS9idW9jLTE%2FY2FyZF90eXBlPXZpYi1mYW1pbHktbGluaw%3D%3D&sub1={placement}",
       "tags": ["education", "health", "family"],
       "priority": 30,
-      "color": "3C6E8F",
-      "soft": "E6EDF5"
+      "theme": "amber"
     },
     {
       "id": "vpbank-card",
@@ -86,8 +84,7 @@
       "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6614454346312590528?sub4=oneatweb&utm_source=seed&utm_campaign=vpbc&url_enc=aHR0cHM6Ly9jYXJkcy52cGJhbmsuY29tLnZuLz91dG1fY2FtcGFpZ249SmFydmlzQ3VzdENDLlBhcnRuZXImdXRtX3NvdXJjZT1BY2Nlc3N0cmFkZSZ1dG1fbWVkaXVtPUFjY2Vzc3RyYWRlJlBhcnRuZXJJZD1BY2Nlc3N0cmFkZQ%3D%3D&sub1={placement}",
       "tags": ["personal", "fun"],
       "priority": 20,
-      "color": "5E7BA6",
-      "soft": "E9EDF5"
+      "theme": "emerald"
     }
   ]
 }
