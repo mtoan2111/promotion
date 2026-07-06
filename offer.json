@@ -1,128 +1,93 @@
 {
-  "network": "HyperLead",
-  "publisher_id": "7017561948428182805",
-  "campaigns": [
+  "version": 3,
+  "updatedAt": "2026-07-06T00:00:00Z",
+  "_compliance": "LIVE HyperLead campaigns (publisher 7017561948428182805). Every number on a card must be SOURCED or OMITTED — never fabricate a % or fee. 'Tối đa/đến' figures must carry their qualifier in statLabel. VPBank ships hero-less until a real number is confirmed. Card voice: ấm, ngôi 'bạn', câu ngắn, không hype/FOMO.",
+  "offers": [
     {
-      "name": "Bảo Tín Mạnh Hải",
-      "utm_campaign": "btmh",
-      "deep_link_version": "v5",
-      "offer_id": "6962147889261067281",
-      "sub4": "oneatweb",
-      "utm_source": "seed",
-      "tracking_url": "https://go.isclix.com/deep_link/v5/7017561948428182805/6962147889261067281?utm_source=seed&utm_campaign=btmh&sub4=oneatweb&url_enc=aHR0cHM6Ly9rZ2IuYmFvdGlubWFuaGhhaS52bi8%3D",
-      "destination_url": "https://kgb.baotinmanhhai.vn/",
-      "destination_domain": "kgb.baotinmanhhai.vn",
-      "details": {
-        "advertiser": "Công ty Cổ phần Bảo Tín Mạnh Hải",
-        "category": "Vàng / Trang sức / Tích lũy tài sản",
-        "landing_page_type": "Mua vàng online & vàng tích lũy (trang KGB - Kim Gia Bảo)",
-        "product_summary": "Thương hiệu vàng bạc trang sức uy tín ~32 năm tại miền Bắc, một trong số ít doanh nghiệp được Ngân hàng Nhà nước cấp phép kinh doanh vàng miếng. Landing page hướng người dùng đặt mua vàng online và tham gia tích lũy vàng 24K (sản phẩm độc quyền Nhẫn ép vỉ 999.9 Kim Gia Bảo, dòng Tiểu Kim Cát giá từ hơn 1 triệu đồng).",
-        "target_audience": "Người muốn mua vàng/trang sức online, tích lũy vàng số tiền nhỏ định kỳ, mua quà cưới - quà tặng dịp lễ Tết; nhóm trẻ thích tích lũy tài sản linh hoạt.",
-        "key_offers": [
-          "Mua vàng online, giao tận nhà",
-          "Tích lũy vàng 24K từ số vốn nhỏ",
-          "Trang sức cưới, dây chuyền, charm 18K/24K",
-          "Khuyến mãi voucher & giảm giá trang sức theo mùa"
-        ],
-        "conversion_action": "Đặt hàng / đăng ký mua vàng online thành công trên trang KGB (cần xác nhận lại mô hình ghi nhận với AM: CPS/CPO/CPL).",
-        "notes": "Sản phẩm bán lẻ (không phải tài chính - tín dụng), thường ghi nhận theo đơn hàng thành công. Nên hỏi AM về việc có tính hoa hồng theo % giá trị đơn hay cố định/đơn."
+      "id": "highlands-code",
+      "kind": "card",
+      "bank": { "vi": "Highlands Coffee", "en": "Highlands Coffee" },
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Highlands_Coffee_5G.svg/960px-Highlands_Coffee_5G.svg.png",
+      "logoText": "HL",
+      "logoBg": "FFFFFF",
+      "title": { "vi": "Lấy mã ưu đãi Highlands", "en": "Get a Highlands deal code" },
+      "desc": {
+        "vi": "Mở liên kết để nhận mã giảm giá, dùng ngay khi đặt ly Highlands tiếp theo.",
+        "en": "Open the link to grab a discount code — use it on your next Highlands cup."
       },
-      "card": {
-        "badge": "TIẾP THỊ LIÊN KẾT",
-        "eyebrow": "BẢO TÍN MẠNH HẢI",
-        "hero_value": "24K",
-        "hero_label": "VÀNG ÉP VỈ 999.9",
-        "title": "Tích lũy vàng online",
-        "description": "Gom từng chỉ vàng 24K từ khoản để dành mỗi tháng — đặt online, giao tận nhà.",
-        "cta_label": "Xem giá vàng hôm nay",
-        "cta_alternatives": [
-          "Mua vàng online",
-          "Bắt đầu tích lũy"
-        ],
-        "disclosure": "Mầm có thể nhận hoa hồng khi bạn đặt mua qua liên kết này. Dữ liệu chi tiêu của bạn không bao giờ được chia sẻ."
-      }
+      "cta": { "vi": "Lấy mã ưu đãi", "en": "Get the code" },
+      "dest": { "vi": "Zalo", "en": "Zalo" },
+      "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6709203674879803188?sub4=oneatweb&utm_source=seed&utm_campaign=hl&url_enc=aHR0cHM6Ly96YWxvLm1lL3MvMzI3NDExNjI5MTI3MzEyMDY3L2dhbWVzL2FmZmlsaWF0ZQ%3D%3D&sub1={placement}",
+      "theme": "emerald",
+      "tags": ["food", "fun"],
+      "priority": 10
     },
     {
-      "name": "VPBank Card",
-      "utm_campaign": "vpbc",
-      "deep_link_version": "v6",
-      "offer_id": "6614454346312590528",
-      "sub4": "oneatweb",
-      "utm_source": "seed",
-      "tracking_url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6614454346312590528?sub4=oneatweb&utm_source=seed&utm_campaign=vpbc&url_enc=aHR0cHM6Ly9jYXJkcy52cGJhbmsuY29tLnZuLz91dG1fY2FtcGFpZ249SmFydmlzQ3VzdENDLlBhcnRuZXImdXRtX3NvdXJjZT1BY2Nlc3N0cmFkZSZ1dG1fbWVkaXVtPUFjY2Vzc3RyYWRlJlBhcnRuZXJJZD1BY2Nlc3N0cmFkZQ%3D%3D",
-      "destination_url": "https://cards.vpbank.com.vn/?utm_campaign=JarvisCustCC.Partner&utm_source=Accesstrade&utm_medium=Accesstrade&PartnerId=Accesstrade",
-      "destination_domain": "cards.vpbank.com.vn",
-      "details": {
-        "advertiser": "Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank)",
-        "category": "Thẻ tín dụng ngân hàng",
-        "landing_page_type": "Cổng đăng ký mở thẻ tín dụng VPBank (cards.vpbank.com.vn)",
-        "product_summary": "Trang đăng ký mở thẻ tín dụng của VPBank. Landing page chung cho danh mục thẻ tín dụng VPBank, khách chọn dòng thẻ phù hợp và điền hồ sơ mở thẻ online.",
-        "target_audience": "Khách hàng có nhu cầu mở thẻ tín dụng, đủ điều kiện thu nhập/độ tuổi theo quy định VPBank; nhóm chi tiêu mua sắm, hoàn tiền, trả góp.",
-        "key_offers": [
-          "Mở thẻ tín dụng online",
-          "Nhiều dòng thẻ hoàn tiền / tích điểm / du lịch",
-          "Ưu đãi phí thường niên & hoàn tiền theo chương trình"
-        ],
-        "conversion_action": "Khách hoàn tất đăng ký mở thẻ tín dụng thành công (thường ghi nhận khi hồ sơ được duyệt/kích hoạt thẻ - CPA/CPL tùy campaign).",
-        "notes": "Link đích chứa tham số Accesstrade (utm_source=Accesstrade, PartnerId=Accesstrade) => campaign gốc thuộc network Accesstrade, không phải HyperLead. Cần xác nhận nguồn để đối soát đúng."
+      "id": "btmh-gold",
+      "kind": "savings",
+      "bank": { "vi": "Bảo Tín Mạnh Hải", "en": "Bảo Tín Mạnh Hải" },
+      "logo": "partner_btmh",
+      "logoText": "BT",
+      "logoBg": "C8992E",
+      "stat": { "vi": "24K" },
+      "statLabel": { "vi": "vàng ép vỉ 999.9", "en": "999.9 sealed gold" },
+      "title": { "vi": "Tích lũy vàng online", "en": "Save in gold, online" },
+      "desc": {
+        "vi": "Gom từng chỉ vàng 24K từ khoản để dành mỗi tháng — đặt online, giao tận nhà.",
+        "en": "Turn each month's savings into 24K gold — order online, home delivery."
       },
-      "card": {
-        "badge": "TIẾP THỊ LIÊN KẾT",
-        "eyebrow": "NGÂN HÀNG VPBANK",
-        "hero_value": null,
-        "hero_label": null,
-        "hero_todo": "Cần 1 con số có nguồn từ đúng dòng thẻ đang chạy. Gợi ý (xác nhận trước khi lên): phí thường niên năm đầu '0đ', hoặc mức hoàn tiền cụ thể của thẻ. KHÔNG bịa %.",
-        "title": "Mở thẻ tín dụng online",
-        "description": "Chọn thẻ hợp cách bạn tiêu, mở hồ sơ online — không cần ra quầy.",
-        "cta_label": "Chọn thẻ phù hợp",
-        "cta_alternatives": [
-          "Mở thẻ online",
-          "Xem các dòng thẻ"
-        ],
-        "disclosure": "Mầm có thể nhận hoa hồng khi bạn đăng ký qua liên kết này. Dữ liệu chi tiêu của bạn không bao giờ được chia sẻ."
-      }
+      "cta": { "vi": "Xem giá vàng hôm nay", "en": "See today's gold price" },
+      "url": "https://go.isclix.com/deep_link/v5/7017561948428182805/6962147889261067281?utm_source=seed&utm_campaign=btmh&sub4=oneatweb&url_enc=aHR0cHM6Ly9rZ2IuYmFvdGlubWFuaGhhaS52bi8%3D&sub1={placement}",
+      "tags": ["finance", "invest"],
+      "priority": 40,
+      "color": "C8992E",
+      "soft": "F7EFD6"
     },
     {
-      "name": "VIB Credit Card",
-      "utm_campaign": "vibc",
-      "deep_link_version": "v6",
-      "offer_id": "6298965523515214199",
-      "sub4": "oneatweb",
-      "utm_source": "seed",
-      "tracking_url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6298965523515214199?sub4=oneatweb&utm_source=seed&utm_campaign=vibc&url_enc=aHR0cHM6Ly93d3cudmliLmNvbS52bi92bi90aGUtdGluLWR1bmcvZGFuZy1reS9idW9jLTE%2FY2FyZF90eXBlPXZpYi1mYW1pbHktbGluaw%3D%3D",
-      "destination_url": "https://www.vib.com.vn/vn/the-tin-dung/dang-ky/buoc-1?card_type=vib-family-link",
-      "destination_domain": "www.vib.com.vn",
-      "details": {
-        "advertiser": "Ngân hàng TMCP Quốc Tế Việt Nam (VIB)",
-        "category": "Thẻ tín dụng ngân hàng",
-        "landing_page_type": "Form đăng ký mở thẻ VIB Family Link - bước 1",
-        "product_summary": "VIB Family Link là dòng thẻ tín dụng thiết kế cho gia đình (ra mắt 2021). Hoàn đến 10% cho 1 danh mục tự chọn (Giáo dục / Y tế / Bảo hiểm), 0,1% cho các chi tiêu còn lại, tối đa 1.000.000 điểm/kỳ sao kê. Trả góp 0% chi tiêu giáo dục, hạn mức đến 600 triệu, phí thường niên 899.000đ (giảm 50% khi liên kết thẻ vợ/chồng), tặng bảo hiểm giáo dục & tai nạn.",
-        "target_audience": "Gia đình trẻ, vợ chồng 30-35 tuổi có con nhỏ, ưu tiên chi tiêu giáo dục - y tế - bảo hiểm; nhóm cần hoàn tiền cho chi tiêu thiết yếu.",
-        "key_offers": [
-          "Hoàn đến 10% danh mục tự chọn",
-          "Hạn mức đến 600 triệu",
-          "Trả góp 0% chi tiêu giáo dục",
-          "Miễn/hoàn phí thường niên năm đầu theo chương trình",
-          "Tặng bảo hiểm giáo dục & tai nạn"
-        ],
-        "conversion_action": "Khách hoàn tất form đăng ký mở thẻ (bắt đầu từ bước 1) và được duyệt/mở thẻ thành công (CPA/CPL tùy campaign).",
-        "notes": "Link đi qua hạ tầng isclix.com (Accesstrade). Ưu đãi cụ thể thay đổi theo thời điểm - nên kiểm tra lại trên trang VIB trước khi chạy."
+      "id": "vib-family",
+      "kind": "card",
+      "bank": { "vi": "Ngân hàng VIB", "en": "VIB Bank" },
+      "logo": "partner_vib",
+      "logoText": "VIB",
+      "logoBg": "FFFFFF",
+      "stat": { "vi": "10%" },
+      "statLabel": {
+        "vi": "hoàn tiền tối đa — danh mục bạn chọn",
+        "en": "max cashback — category you pick"
       },
-      "card": {
-        "badge": "TIẾP THỊ LIÊN KẾT",
-        "eyebrow": "THẺ TÍN DỤNG VIB",
-        "hero_value": "10%",
-        "hero_label": "HOÀN TIỀN TỐI ĐA — DANH MỤC BẠN CHỌN",
-        "title": "Thẻ VIB Family Link",
-        "description": "Dồn hoàn tiền vào đúng nhóm gia đình chi nhiều nhất — học phí, y tế hay bảo hiểm.",
-        "cta_label": "Mở thẻ tại VIB",
-        "cta_alternatives": [
-          "Tìm hiểu thẻ",
-          "Xem ưu đãi thẻ"
-        ],
-        "disclosure": "Mầm có thể nhận hoa hồng khi bạn đăng ký qua liên kết này. Dữ liệu chi tiêu của bạn không bao giờ được chia sẻ."
-      }
+      "title": { "vi": "Thẻ VIB Family Link", "en": "VIB Family Link card" },
+      "desc": {
+        "vi": "Dồn hoàn tiền vào đúng nhóm gia đình chi nhiều nhất — học phí, y tế hay bảo hiểm.",
+        "en": "Point the cashback at what your family spends most on — tuition, health or insurance."
+      },
+      "cta": { "vi": "Mở thẻ", "en": "Open the card" },
+      "dest": { "vi": "VIB", "en": "VIB" },
+      "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6298965523515214199?sub4=oneatweb&utm_source=seed&utm_campaign=vibc&url_enc=aHR0cHM6Ly93d3cudmliLmNvbS52bi92bi90aGUtdGluLWR1bmcvZGFuZy1reS9idW9jLTE%2FY2FyZF90eXBlPXZpYi1mYW1pbHktbGluaw%3D%3D&sub1={placement}",
+      "tags": ["education", "health", "family"],
+      "priority": 30,
+      "color": "3C6E8F",
+      "soft": "E6EDF5"
+    },
+    {
+      "id": "vpbank-card",
+      "kind": "card",
+      "bank": { "vi": "Ngân hàng VPBank", "en": "VPBank" },
+      "logo": "partner_vpbank",
+      "logoText": "VP",
+      "logoBg": "FFFFFF",
+      "heroTodo": "Điền số thật sau khi xác nhận network: phí thường niên năm đầu '0đ', hoặc mức hoàn tiền cụ thể của dòng thẻ đang chạy. KHÔNG bịa %.",
+      "title": { "vi": "Mở thẻ tín dụng VPBank", "en": "Open a VPBank credit card" },
+      "desc": {
+        "vi": "Chọn thẻ hợp nhịp chi tiêu của bạn — đăng ký online, xét duyệt nhanh.",
+        "en": "Pick the card that fits how you spend — apply online, quick review."
+      },
+      "cta": { "vi": "Xem các dòng thẻ", "en": "Browse the cards" },
+      "dest": { "vi": "VPBank", "en": "VPBank" },
+      "url": "https://go.isclix.com/deep_link/v6/7017561948428182805/6614454346312590528?sub4=oneatweb&utm_source=seed&utm_campaign=vpbc&url_enc=aHR0cHM6Ly9jYXJkcy52cGJhbmsuY29tLnZuLz91dG1fY2FtcGFpZ249SmFydmlzQ3VzdENDLlBhcnRuZXImdXRtX3NvdXJjZT1BY2Nlc3N0cmFkZSZ1dG1fbWVkaXVtPUFjY2Vzc3RyYWRlJlBhcnRuZXJJZD1BY2Nlc3N0cmFkZQ%3D%3D&sub1={placement}",
+      "tags": ["personal", "fun"],
+      "priority": 20,
+      "color": "5E7BA6",
+      "soft": "E9EDF5"
     }
-  ],
-  "card_voice": "Giọng Mầm: ấm, ngôi 'bạn', câu ngắn gắn đời sống, không hype/FOMO, không hứa lãi-thưởng chắc chắn. Con số 'tối đa/đến' phải để qualifier ở hero_label."
+  ]
 }
